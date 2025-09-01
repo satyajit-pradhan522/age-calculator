@@ -21,4 +21,4 @@ The app allows users to enter their date of birth and instantly calculate their 
 ---
 
 ## 📸 Screenshots
-![App Screenshot](Age Calculator/Screenshot.png)
+![App Screenshot](Screenshot.png)
