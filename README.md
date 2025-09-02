@@ -21,7 +21,7 @@ The app allows users to enter their date of birth and instantly calculate their 
 ---
 
 ## 🚀 Demo
-[Click here to try the app](https://satyajit-pradhan522.github.io/age-calculator/)
+[Click here to try the app](https://satyajit-pradhan522.github.io/age-calculator/AgeCalculator/)
 
 ---
 
